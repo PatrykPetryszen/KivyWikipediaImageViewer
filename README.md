@@ -1,2 +1,2 @@
-# WebcamPhotoSharing
-Webcam Photo Sharing App written in Python
+# KivyWikipediaImageViewer
+KivyWikipediaImageViewer App written in Python
